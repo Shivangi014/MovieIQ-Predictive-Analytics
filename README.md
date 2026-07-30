@@ -12,7 +12,3 @@ MovieIQ is a Machine Learning project that predicts whether a movie will be succ
 - Matplotlib
 - Seaborn
 - Streamlit
-
-## Project Status
-
-🚧 Under Development
